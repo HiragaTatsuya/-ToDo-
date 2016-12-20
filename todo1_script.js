@@ -83,3 +83,5 @@ function checkText(text) {
   // すべてのチェックを通過できれば可
   return true;
 }
+// ローカルストレージに保存したすべてのデータを削除する
+localStorage.clear();
