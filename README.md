@@ -3,4 +3,5 @@
 作成者_平賀_達也　
 内容_前回プログラムを変えて、より画面仕様書に近づくようにToDoリスト一覧を表示、ToDoリストの追加を行えるようにした。
 TODOの状態変更、検索機能は付ける事が技量不足のためできなかった。
-構成_5.jQueryを使ってみるやSTEP1-6.ローカルストレージを使ってみるなどのコードを元に改良とstep1sampleのdefault.cssを元に背景や文字色の変更を行った。また5.npmを使ってexpressをインストールして使ってみる。6.MongoDBをインストールして使ってみる。7.MongoDBを設計してみる。8.ブラウザ（JavaScript）とサーバ（NodeJS）を連携してみる。を駆使しhttp://localhost:3000/todo1.htmでの起動は確認できた。
+プッシュした内容は、ajaxTest内の変更した、app.js,todo1.ejs,index.ejs,todo1.htmとデータベースのエクスポートデータをプッシュした。
+構成_5.jQueryを使ってみるやSTEP1-6.ローカルストレージを使ってみるなどのコードを元に改良とstep1sampleのdefault.cssを元に背景や文字色の変更を行った。また5.npmを使ってexpressをインストールして使ってみる。6.MongoDBをインストールして使ってみる。7.MongoDBを設計してみる。8.ブラウザ（JavaScript）とサーバ（NodeJS）を連携してみる。を駆使しhttp://localhost:3000での起動は確認できた。
