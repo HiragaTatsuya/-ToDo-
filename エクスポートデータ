@@ -1,0 +1,4 @@
+C:\Program Files\MongoDB\Server\3.4\bin> mongoexport --db testdb --collection te
+st --out output.json
+2017-01-20T15:15:26.411+0900    connected to: localhost
+2017-01-20T15:15:26.541+0900    exported 0 records
